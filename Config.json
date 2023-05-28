@@ -1,0 +1,18 @@
+{
+
+    "AppConfig": {
+
+        "secretKey": "1905030928308823492934823480239401208203825309",
+        "port": 5000,
+        "debug": false,
+        "credencials_json": "C:/Users/Terro/gptwrap_credentials.json"
+
+    },
+
+    "AuthKeys": {
+        
+        "ElHaban3ro": "a59440d7c4276be652c03546c9bba2c5c1665af1756d3689b591049fde5b8c25"
+
+    }
+
+}
